@@ -12,6 +12,8 @@
   <img align="center" alt="Gabriel-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
   <img align="center" alt="Gabriel-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Gabriel-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/wordpress/wordpress-plain.svg">
+   <img align="center" alt="Gabriel-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/node-original.svg">
+   
 
 </div>
     
